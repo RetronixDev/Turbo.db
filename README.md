@@ -1,2 +1,2 @@
-# Rapid.db
+# Turbo.db
 > Lightweight JSON based database.
