@@ -1,1 +1,2 @@
-# rapid.db
+# Rapid.db
+> Lightweight JSON based database.
